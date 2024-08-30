@@ -1,0 +1,20 @@
+اول حاجة تريجر دي عبارة عن داتا بيز اوبجكت بيستخدمها ادمنستراتور داتابيز 
+
+اي هيا طيب معناها ان عندنا جملة سيكوال عايزنها تتنفز اتوماتك لما انا اعمل اكشن معين زي 
+delete ,update, insert ,create , alter , drop 
+هناك 3 انواع من تريجر 
+1- dml trigger
+2- ddl trigger
+3  login trigger 
+
+CREATE TRIGGER [schema_name.]trigger_name
+ON table_name
+AFTER  {[INSERT],[UPDATE],[DELETE]}
+[NOT FOR REPLICATION]
+AS
+{sql_statements}
+
+دي طريقة انشاء تريجر بحدد اسمها وبحدد تابل اللي هتتاثر منه 
+واحدد التاثير بعد ايه بالظبط اضافة ولا حزف ولا ايه 
+بعد كدا اكتب جملة اللي عايزها تتنفز اتوماتك 
+
