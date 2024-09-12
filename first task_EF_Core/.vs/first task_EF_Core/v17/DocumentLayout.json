@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Me\\Desktop\\first task_EF_Core\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8C9D5E-4A97-4C45-BE45-7630B883AEE6}|first task_EF_Core\\first task_EF_Core.csproj|c:\\users\\me\\desktop\\first task_ef_core\\first task_ef_core\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A8C9D5E-4A97-4C45-BE45-7630B883AEE6}|first task_EF_Core\\first task_EF_Core.csproj|solutionrelative:first task_ef_core\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Me\\Desktop\\first task_EF_Core\\first task_EF_Core\\obj\\Debug\\net8.0\\x0u4rjaf.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:first task_EF_Core\\obj\\Debug\\net8.0\\x0u4rjaf.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8C9D5E-4A97-4C45-BE45-7630B883AEE6}|first task_EF_Core\\first task_EF_Core.csproj|c:\\users\\me\\desktop\\first task_ef_core\\first task_ef_core\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A8C9D5E-4A97-4C45-BE45-7630B883AEE6}|first task_EF_Core\\first task_EF_Core.csproj|solutionrelative:first task_ef_core\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8C9D5E-4A97-4C45-BE45-7630B883AEE6}|first task_EF_Core\\first task_EF_Core.csproj|c:\\users\\me\\desktop\\first task_ef_core\\first task_ef_core\\models\\coustmer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A8C9D5E-4A97-4C45-BE45-7630B883AEE6}|first task_EF_Core\\first task_EF_Core.csproj|solutionrelative:first task_ef_core\\models\\coustmer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8C9D5E-4A97-4C45-BE45-7630B883AEE6}|first task_EF_Core\\first task_EF_Core.csproj|c:\\users\\me\\desktop\\first task_ef_core\\first task_ef_core\\models\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A8C9D5E-4A97-4C45-BE45-7630B883AEE6}|first task_EF_Core\\first task_EF_Core.csproj|solutionrelative:first task_ef_core\\models\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8C9D5E-4A97-4C45-BE45-7630B883AEE6}|first task_EF_Core\\first task_EF_Core.csproj|c:\\users\\me\\desktop\\first task_ef_core\\first task_ef_core\\models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A8C9D5E-4A97-4C45-BE45-7630B883AEE6}|first task_EF_Core\\first task_EF_Core.csproj|solutionrelative:first task_ef_core\\models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8C9D5E-4A97-4C45-BE45-7630B883AEE6}|first task_EF_Core\\first task_EF_Core.csproj|c:\\users\\me\\desktop\\first task_ef_core\\first task_ef_core\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A8C9D5E-4A97-4C45-BE45-7630B883AEE6}|first task_EF_Core\\first task_EF_Core.csproj|solutionrelative:first task_ef_core\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Me\\Desktop\\first task_EF_Core\\first task_EF_Core\\obj\\Debug\\net8.0\\x0u4rjaf.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:first task_EF_Core\\obj\\Debug\\net8.0\\x0u4rjaf.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "x0u4rjaf.sql ",
+              "DocumentMoniker": "C:\\Users\\Me\\Desktop\\first task_EF_Core\\first task_EF_Core\\obj\\Debug\\net8.0\\x0u4rjaf.sql",
+              "RelativeDocumentMoniker": "first task_EF_Core\\obj\\Debug\\net8.0\\x0u4rjaf.sql",
+              "ToolTip": "x0u4rjaf.sql ",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-09-12T08:38:15.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Me\\Desktop\\first task_EF_Core\\first task_EF_Core\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "first task_EF_Core\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Me\\Desktop\\first task_EF_Core\\first task_EF_Core\\Models\\Product.cs",
+              "RelativeToolTip": "first task_EF_Core\\Models\\Product.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T08:01:29.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Coustmer.cs",
+              "DocumentMoniker": "C:\\Users\\Me\\Desktop\\first task_EF_Core\\first task_EF_Core\\Models\\Coustmer.cs",
+              "RelativeDocumentMoniker": "first task_EF_Core\\Models\\Coustmer.cs",
+              "ToolTip": "C:\\Users\\Me\\Desktop\\first task_EF_Core\\first task_EF_Core\\Models\\Coustmer.cs",
+              "RelativeToolTip": "first task_EF_Core\\Models\\Coustmer.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T07:58:46.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Store.cs",
+              "DocumentMoniker": "C:\\Users\\Me\\Desktop\\first task_EF_Core\\first task_EF_Core\\Models\\Store.cs",
+              "RelativeDocumentMoniker": "first task_EF_Core\\Models\\Store.cs",
+              "ToolTip": "C:\\Users\\Me\\Desktop\\first task_EF_Core\\first task_EF_Core\\Models\\Store.cs",
+              "RelativeToolTip": "first task_EF_Core\\Models\\Store.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T07:55:56.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Sale.cs",
+              "DocumentMoniker": "C:\\Users\\Me\\Desktop\\first task_EF_Core\\first task_EF_Core\\Models\\Sale.cs",
+              "RelativeDocumentMoniker": "first task_EF_Core\\Models\\Sale.cs",
+              "ToolTip": "C:\\Users\\Me\\Desktop\\first task_EF_Core\\first task_EF_Core\\Models\\Sale.cs",
+              "RelativeToolTip": "first task_EF_Core\\Models\\Sale.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T07:54:09.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Me\\Desktop\\first task_EF_Core\\first task_EF_Core\\data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "first task_EF_Core\\data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Me\\Desktop\\first task_EF_Core\\first task_EF_Core\\data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "first task_EF_Core\\data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T07:49:26.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Me\\Desktop\\first task_EF_Core\\first task_EF_Core\\Program.cs",
+              "RelativeDocumentMoniker": "first task_EF_Core\\Program.cs",
+              "ToolTip": "C:\\Users\\Me\\Desktop\\first task_EF_Core\\first task_EF_Core\\Program.cs",
+              "RelativeToolTip": "first task_EF_Core\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T07:47:44.009Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
